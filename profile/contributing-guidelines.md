@@ -1,7 +1,7 @@
 # Contributing Guidelines
 
 ## Introduction:
-GitHub is a widely used platform for version control and collaboration in software development. It is also a valuable tool for bioinformatics research organizations to manage and share code, data, and documentation. The following guidelines are designed to help our organization effectively use GitHub to support our research goals.
+GitHub is a widely used platform for version control and collaboration in software development. It is also a valuable tool for research organizations to manage and share code, data, and documentation. The following guidelines are designed to help our organization effectively use GitHub to support our research goals.
 
 ## Guidelines:
 * Repository Structure: Each project or study within our organization should have its own GitHub repository. The repository should be organized in a clear and consistent manner, with a README file explaining the purpose and contents of the repository.
