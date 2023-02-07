@@ -20,6 +20,8 @@ GitHub is a widely used platform for version control and collaboration in softwa
 
 * Pull Requests: Pull requests are an effective way to contribute code and collaborate on projects. All members of the organization are encouraged to use pull requests to suggest changes and provide feedback on each other's work.
 
+* Projects delivering web tools/applications: the reference interactive front end is reccomended to be served through the github page mechanism (gh-pages) pointed to a branch in the same repository where the underlying code is versioned. The rationale is that the reference user-interface doubles as code testing.
+
 * Continuous Integration: Where possible, we should set up continuous integration workflows that automate testing and deployment of code changes. This helps to ensure that our code remains stable and working as expected.
 
 ## Conclusion:
